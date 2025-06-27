@@ -21,10 +21,3 @@ This project collects news articles from NewsAPI, detects their language, and pr
 - `requests` – to access NewsAPI
 - `datetime`, `getpass` – for automation
 
----
-
-## 📁 Project Files
-
-news_sentiment_analysis/
-├── news_sentiment_analysis.ipynb   
-├── README.md                     
